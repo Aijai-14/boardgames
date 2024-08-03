@@ -114,8 +114,8 @@ To get a local copy up and running follow these simple example steps.
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Finish Sudoku Game
-- [ ] Add Restart Page, Timer and Solution Checking
+- [x] Finish Sudoku Game
+- [x] Add Restart Page, Timer and Solution Checking (Timer will add later)
 - [ ] Create a Menu Screen to Select which games the user wants to play
 - [ ] Update Readme
 - [ ] Other Games

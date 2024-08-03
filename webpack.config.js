@@ -3,7 +3,7 @@ const path = require('path');
 // './sudoku_game/static/js/checkSolution.js'
 
 module.exports = {
-    entry: ['./sudoku_game/static/js/index.js'],
+    entry: ['./sudoku/static/js/index.js'],
     output: {
         path: path.resolve(__dirname, 'static/js'),
         filename: 'bundle.js',

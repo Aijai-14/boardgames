@@ -30,10 +30,8 @@
   <p align="center">
     A webpage with common board games to play against the computer!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="#usage">View Demo</a>
   </p>
 </div>
 
@@ -105,7 +103,7 @@ To get a local copy up and running follow these simple example steps.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-(Demo Soon) 
+![Demo](media/sudoku.gif)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
